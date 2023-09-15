@@ -1,0 +1,15 @@
+.headings {
+    color: #F3854E;
+}
+.border {
+    border: dotted .25em #F3854E;
+    background-color: lightgrey;
+    text-align: center;
+    font: 1.20em georgia;
+}
+.image {
+    width: 70px;
+}
+header img {
+    width: 200px;
+}
