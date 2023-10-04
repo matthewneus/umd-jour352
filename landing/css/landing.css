@@ -1,0 +1,44 @@
+body{
+    font-size: 15px;
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+header img{
+    width: 8em;
+}
+header{
+    background-color: #CFCFCF;
+}
+.image{
+    width: 100em;
+    display: block;
+}
+h1{
+    font-family: 'Young Serif', serif;
+    font-size: 4em;
+    text-align: center;
+    color:#A55D00;
+}
+h2, h3{
+    font-family: 'Young Serif', serif;
+    text-align: center;
+    color: #00970e;
+    text-transform: capitalize;
+}
+img{
+    margin:0 auto;
+    display: block;
+}
+.col-md-4{
+    margin: 1em 0;
+}
+.menu{
+    padding: 2em;
+    background-color: #CFCFCF;
+}
+.nav-link{
+    color:#00970E;
+}
+.nav-link:hover{
+    color:#2563FF;
+}
