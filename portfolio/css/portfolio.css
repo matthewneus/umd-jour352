@@ -1,5 +1,5 @@
 body{
-    background-color: #FBFFFE;
+    background-color: white;
 }
 
 img{
@@ -12,6 +12,7 @@ img{
 
 .bio{
     padding: 2em;
+    font-family: 'Libre Franklin';
 }
 
 .tabs{
@@ -37,6 +38,7 @@ img{
 h2{
     color: #05204A;
     font-family: 'Days One';
+    text-align: center;
 }
 
 h4{
@@ -51,17 +53,50 @@ p{
     color:black;
 }
 
- .resume{
-    width:600px;
-    padding:1em;
-    border: 1px solid #05204A;
-    background-color: lightgray;
- }
-
  .jobs{
     color:#FAA916;
  }
 
-.col-sm-6{
-    margin: 3em 0;
+.row-md-6{
+    width: 600px;
+    padding: 1em;
+    border: 1px solid #05204A;
+    background-color: lightgray;
+}
+
+.col-md-6{
+    display: block;
+    align-items: center;
+}
+
+img{
+    margin:0 auto;
+    display: block;
+}
+
+.headlines{
+    font-family: 'Homenaje';
+    font-size: 1.65em;
+    text-align: center;
+}
+
+.story{
+    font-family: 'Libre Franklin';
+    font-size: 0.85em;
+    color:#05204A;
+    text-align: center;
+}
+
+
+.text{
+    font-family: 'Libre Franklin';
+    font-size: 1em;
+    color: #05204A;
+    text-align: center;
+}
+
+#connect{
+    font-family: 'Libre Franklin';
+    font-size: 1em;
+    color: #05204A;
 }
