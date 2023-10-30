@@ -1,115 +1,66 @@
 body{
     background-color: white;
+    font-family: 'Libre Franklin', sans-serif;
 }
-
 img{
     padding: 2em;
 }
-
-.row-md-3{
+nav{
     margin: 2em 0;
 }
-
-.bio{
-    padding: 2em;
-    font-family: 'Libre Franklin';
+li{
+    font-family: 'Libre Franklin', sans-serif;  
 }
-
-.tabs{
-    padding: 2em;
+main{
+    max-width: 85%;
+    display: block;
+    margin: 0 auto;
 }
-
 .nav-link{
     color: #FAA916;
+    padding: 0.5em 0 0 0;
 }
-
 .nav-link:hover{
     color: #6D676E;
 }
-
-.box{
-    width: 100px;
-    padding: 5px;
-    border: 2px solid;
-    margin: 0;
-    background-color: #05204A;
-}
-
-h2{
+h1{
     color: #05204A;
-    font-family: 'Days One';
-    text-align: center;
+    font-family: 'Days One', sans-serif;
+    text-align: center;  
+    padding: 2em 0;
 }
-
 h3{
     color:#FAA916;
-    font-family: 'Homenaje';
+    font-family: 'Homenaje', sans-serif;
 }
-
 h6{
     color:#05204A;
-    font-family: 'Libre Franklin';
 }
-
-p{
-    color:black;
-}
-
- .jobs{
-    color:#FAA916;
- }
-
-.row-md-6{
-    width: 600px;
-    padding: 1em;
-    border: 1px solid #05204A;
-    background-color: lightgray;
-}
-
-.tabs{
-    width: 100px;
-    padding: 0.5em;
-    border: 1.5px solid;
-}
-
-.col-md-6{
-    display: block;
-    align-items: center;
-}
-
 img{
     margin:0 auto;
     display: block;
 }
-
 .headlines{
-    font-family: 'Homenaje';
+    font-family: 'Homenaje', sans-serif;
     font-size: 1.65em;
     text-align: center;
 }
-
 .story{
-    font-family: 'Libre Franklin';
     font-size: 0.85em;
     color:#05204A;
     text-align: center;
 }
-
-
 .text{
-    font-family: 'Libre Franklin';
     font-size: 1em;
-    color: #05204A;
     text-align: center;
-}
-
-.connect{
-    font-family: 'Libre Franklin';
     color: #05204A;
 }
-
-.indent{
-    padding-left: 50px;
-    padding-right: 50px;
-    font-family: 'Libre Franklin';
+p{
+    font-size: 1em;
+    font-family: 'Libre Franklin', sans-serif;
+}
+@media (max-width: 576px){
+    img{
+        width: 350px;
+    }
 }
