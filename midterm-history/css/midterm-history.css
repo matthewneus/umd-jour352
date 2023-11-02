@@ -1,0 +1,62 @@
+body{
+    background-color: #F7F2EA;
+}
+
+h1{
+    text-align: center;
+    font-size: 4em;
+    font-family: 'playfair display', serif;
+    color: #192438;
+}
+
+.second{
+    font-weight: bold;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    font-family: 'Fraunces', serif;
+    color: #192438;
+    font-size: 0.99em;
+}
+
+.author{
+    text-align: center;
+    font-family: 'Roberto Condensed', sans-serif;
+    color: #192438;
+    font-weight: lighter;
+}
+
+.text{
+   font-family:'Roberto Condensed', sans-serif;
+   color: #192438;
+   text-align: center;
+}
+
+.container{
+    max-width: 45%;
+}
+   
+
+.last{
+    font-weight: lighter;
+    color: #192438;
+    font-size: 0.60em;
+}
+
+
+h3{
+    line-height: 5;
+    letter-spacing: 0.10em;
+    color: brown;
+}
+
+.container-fluid{
+    max-width: 80%;
+}
+
+.bottom{
+    font-family:'Roberto Condensed', sans-serif;
+    color: #192438;
+}
