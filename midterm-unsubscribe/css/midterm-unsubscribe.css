@@ -1,0 +1,131 @@
+header{
+    background-color: #121212;
+    min-height: 100vh;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    text-align: center;
+    color: #fcfdfe;
+}
+
+body{
+    background-color: #FAF9F6;
+}
+
+main{
+    font-family: 'Roboto', sans-serif;
+}
+
+footer{
+    text-align: center;
+    font-family: 'Inconsolata', sans-serif;
+}
+
+a{
+    color: #DB5461;
+}
+
+h1{
+    font-family: 'Inconsolata', sans-serif;
+    font-weight: 700;
+    font-size: 4em;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h2{
+    font-family: 'Inconsolata', sans-serif;
+    font-weight: 700;
+    font-size: 1.75em; 
+    text-transform: uppercase;
+}
+
+h3{
+    color: #FCFDFE;
+    font-family: 'Inconsolata', sans-serif;
+    font-size: 1.5em;
+    text-transform: uppercase;
+}
+
+h4{
+    color: #FCFDFE;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5em;  
+}
+
+.chart{
+    padding: 5%;
+}
+
+.top{
+    font-family: 'Inconsolata', sans-serif;
+    text-align: center; 
+}
+
+.intro{
+    letter-spacing: 1px;
+    font-weight: 300;
+}
+
+.row{
+    padding: 3% 0% 3% 0%;
+}
+
+.container{
+    max-width: 55%;
+    padding: 5%;
+}
+
+.container-fluid{
+    max-width: 55%;
+}
+
+.results{
+    min-height: 80vh;
+    background-color: #121212;
+}
+
+.text{
+    color: #FCFDFE;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+}
+
+.body{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 15px; 
+}
+
+.col-md-8{
+    padding: 10% 10% 10% 10%;
+}
+
+.col-md-4{
+    padding: 10% 10% 10% 10%;
+}
+
+.quote{
+    font-family: 'Inconsolata', sans-serif;
+    font-weight: 700;
+    font-size: 1em;
+    color: #DB5461;
+}
+
+@media (max-width: 576px){
+    footer{
+        font-size: 0.85em;
+    }
+}
+
+@media (max-width: 768px){
+    .container{
+        max-width: 75%;
+    }
+}
+
+@media (max-width: 576px){
+    .container{
+        max-width: 93%;
+    }
+}
