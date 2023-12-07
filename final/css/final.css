@@ -24,11 +24,9 @@ header{
     color: #FFFFFF;
     font-family: 'Arimo', sans-serif;
 }
-
 body{
     background-color: #FAF9F6;
 }
-
 .container{
     max-width: 55%;
     padding: 5%;
@@ -36,18 +34,15 @@ body{
 .row{
     padding: 3% 3% 3% 3%;
 }
-
 footer{
     text-align: center;
 }
-
 a:link{
     color: #03459c;
 }
 a:hover{
     color: #ffa500;
 }
-
 figcaption{
     text-align: right;
     font-family: 'Arimo', sans-serif;
