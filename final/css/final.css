@@ -1,0 +1,55 @@
+h1{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    padding: 5% 0 0 0;
+}
+h2{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+    color: #ffa500;
+    text-transform: uppercase;
+}
+h5{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    color: #ffa500;  
+}
+p{
+    font-family: 'Arimo', sans-serif;
+    font-weight: 500;  
+}
+header{
+    background-color: #a9a9a9;
+    text-align: center;
+    color: #FFFFFF;
+    font-family: 'Arimo', sans-serif;
+}
+
+body{
+    background-color: #FAF9F6;
+}
+
+.container{
+    max-width: 55%;
+    padding: 5%;
+}
+.row{
+    padding: 3% 3% 3% 3%;
+}
+
+footer{
+    text-align: center;
+}
+
+a:link{
+    color: #03459c;
+}
+a:hover{
+    color: #ffa500;
+}
+
+figcaption{
+    text-align: right;
+    font-family: 'Arimo', sans-serif;
+    padding-right: 1%;
+}
